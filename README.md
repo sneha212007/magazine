@@ -1,0 +1,2 @@
+# magazine
+latest magazine designs
